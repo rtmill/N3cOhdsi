@@ -1,0 +1,15 @@
+Package: N3cOhdsi
+Type: Package
+Title: Ingestion tool for N3C
+Version: 0.1.0
+Author: Robert Miller
+Maintainer: TBD
+Description: TBD
+Depends:
+    R (>= 3.3.0),
+    DatabaseConnector
+Imports:
+    SqlRender
+License: TBD
+Encoding: UTF-8
+LazyData: true
